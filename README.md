@@ -1,7 +1,6 @@
 ## 👋 About Me:
 
-- 💻 Passionate Web Developer & Creative Graphics Designer  
-- 🌱 Currently learning MERN Stack Development (MongoDB, Express.js, React, Node.js)  
+- 💻 Passionate Web Developer & Creative Graphics Designer   
 - 🧠 Skilled in HTML5, CSS3, JavaScript, React, and Adobe tools  
 - 🤝 Looking to collaborate on real-world web projects and internships  
 
